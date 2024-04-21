@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: pytm
+Version: 0.1.0
+Summary: A package for managing tensors
+Author: Hemeng Wang
+Author-email: wanghemeng@163.com
+Requires-Dist: torch
